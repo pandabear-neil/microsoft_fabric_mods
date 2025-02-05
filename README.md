@@ -1,4 +1,4 @@
-# Microsoft Gems
+# Microsoft Fabric Gems
 **TL;DR**: Code Snippets, designs, and thinkings around the Microsoft Fabric Platform.
 
 ---
