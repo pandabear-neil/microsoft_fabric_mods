@@ -1,9 +1,2 @@
 # Microsoft Fabric Mods
-**TL;DR**: Code Snippets, designs, and thinkings centered around the Microsoft Fabric Platform.
-
----
-
-Welcome to the **Microsoft Fabric Mods** repository! This repository serves as a collection of useful code snippets, design ideas, and thoughts centered around the Microsoft Fabric platform.
-
----
-**WARNING: FROM THE PERSPECTIVE OF A JUNIOR DATA PROFESSIONAL**
+**TL;DR**: Code Snippets, Designs, and other things about building a Data Analytics Solution in Microsoft Fabric.
